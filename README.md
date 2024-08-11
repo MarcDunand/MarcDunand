@@ -5,7 +5,7 @@ machine learning. I am also interested in deepening my understanding of how to u
 
 I am currently deepening my understanding of SML(nj) and exploring how computation can be used to rigorously prove mathematics.
 
-My current projects include creating my own website, centralizing all of my past code here, and generating some of the macroscopic physical laws using a hihgly
+My current projects include creating my own website, centralizing all of my past code here, and generating some of the macroscopic physical laws using a
 minimal set of rules.
 
 Please feel free to contact me at mdunand@andrew.cmu.edu!
