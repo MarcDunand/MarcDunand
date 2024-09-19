@@ -1,11 +1,5 @@
-Hi, I'm Marc Dunand, I am currently a sophomore studying at the intersection of Computer Science and Art at Carnegie Mellon University.
+I am an undergraduate Senior at Carnegie Mellon University studying both Computer Science and Art. I will complete my degree in May of 2025. I have experience ranging from the fully computational to the fully artistic with a special focus on interdisciplinary projects that make use of all facets of my education. I believe that data invisible to our eyes underly the world and through thoughtful measurement and beautiful representation we can bring these invisible patterns to light. My work focuses on building a relationship with these data. Please enjoy exploring my website!
 
-I'm currently interested in learning how to simulate the physical world using cellular automota and exploring how topography determines historical events using
-machine learning. I am also interested in deepening my understanding of how to use languages with a low level of abstraction to create high efficiency code.
+A bit about me – I am originally from Chicago but I have fallen for Pittsburgh during my time here. I have two cats – Salt and Pepper whom I love dearly. Some of my hobbies include woodworking and running. I’m also a fan of tennis!
 
-I am currently deepening my understanding of SML(nj) and exploring how computation can be used to rigorously prove mathematics.
-
-My current projects include creating my own website, centralizing all of my past code here, and generating some of the macroscopic physical laws using a
-minimal set of rules.
-
-Please feel free to contact me at mdunand@andrew.cmu.edu!
+Check out my website here: https://marcdunand.com
