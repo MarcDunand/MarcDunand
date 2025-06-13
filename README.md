@@ -1,5 +1,5 @@
-I am an undergraduate Senior at Carnegie Mellon University studying both Computer Science and Art. I will complete my degree in May of 2025. I have experience ranging from the fully computational to the fully artistic with a special focus on interdisciplinary projects that make use of all facets of my education. I believe that data invisible to our eyes underly the world and through thoughtful measurement and beautiful representation we can bring these invisible patterns to light. My work focuses on building a relationship with these data. Please enjoy exploring my website!
+I am a creative technologist and new media artist currently based in Pittsburgh, PA. I was recently awarded my Bachelor’s of Computer Science and Arts from Carnegie Mellon University and I am currently working as a creative technology intern at Deeplocal. I will be beginning my Master’s in Design Studies in the Mediums domain at the Harvard Graduate School of Design this Fall of 2025.
 
-A bit about me – I am originally from Chicago but I have fallen for Pittsburgh during my time here. I have two cats – Salt and Pepper whom I love dearly. Some of my hobbies include woodworking and running. I’m also a fan of tennis!
+I believe that data invisible to our eyes underlie the world and through thoughtful measurement and beautiful representation we can bring these invisible patterns to light. My work focuses on building a relationship with these data. Please enjoy exploring my website!
 
 Check out my website here: https://marcdunand.com
